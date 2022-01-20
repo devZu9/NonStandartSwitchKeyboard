@@ -1,0 +1,1 @@
+"D:\__MyWorkPortable\AutoHotKey\Compiler\Ahk2Exe.exe" /in nssk.ahk /out "exe\NonStandartSwitchKeyboard.exe" /icon icon.ico /base "D:\__MyWorkPortable\AutoHotKey\Compiler\Unicode 64-bit.bin" /compress 2 /silent
